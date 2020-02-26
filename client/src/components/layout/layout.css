@@ -1,0 +1,24 @@
+.appToolbar {
+    background-color: #192a56;
+}
+
+.on-right {
+    margin-left: auto;
+    display:flex;
+}
+
+.white {
+    color:#fff!important;
+}
+
+.login-user {
+    border-left: 2px solid #fff;
+    padding:0 0 0 20px;
+    margin-left: 10px;
+    line-height: 1.9;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'roboto';
+    color: antiquewhite;
+}
+

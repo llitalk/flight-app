@@ -1,0 +1,33 @@
+.form-container {
+    padding: 30px;
+    min-width: 300px;
+}
+
+.upload-wrapper {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.upload-wrapper .MuiTextField-root {
+    margin: 0 0 0 20px !important;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+    font-size: 13px;
+    display: block;
+    margin: 5px 0;
+}
+
+.form-header {
+    text-align: center;
+}
+
+.form-header .material-icons {
+    font-size: 96px;
+}
+.form-footer {
+    text-align: center;
+}
